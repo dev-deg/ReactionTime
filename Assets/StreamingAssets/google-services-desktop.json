@@ -1,0 +1,37 @@
+{
+  "client": [
+    {
+      "services": {
+        "appinvite_service": {
+          "status": 1
+        }, 
+        "analytics_service": {
+          "status": 0
+        }
+      }, 
+      "oauth_client": [
+        {
+          "client_id": "206155136952-uobju44ls38mfbuua8ni9ust1i2524e5.apps.googleusercontent.com"
+        }
+      ], 
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPe5034NPVznmBUhyzduzapuxF1sEe4Xk"
+        }
+      ], 
+      "client_info": {
+        "mobilesdk_app_id": "1:206155136952:ios:22bedf1a60c0a56707994d", 
+        "android_client_info": {
+          "package_name": "com.noob-or-pro"
+        }
+      }
+    }
+  ], 
+  "configuration_version": "1", 
+  "project_info": {
+    "storage_bucket": "rt-score-db.appspot.com", 
+    "project_id": "rt-score-db", 
+    "firebase_url": "https://rt-score-db-default-rtdb.europe-west1.firebasedatabase.app", 
+    "project_number": "206155136952"
+  }
+}
